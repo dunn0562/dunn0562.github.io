@@ -1,0 +1,54 @@
+#test {
+  font-family: sans-serif, cursive;
+  color: red;
+  y: 20;
+
+}
+
+div {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+body > h1 {
+    text-align: center;
+}
+
+#bg1 {
+    width: 50%;
+    height: 75%;
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    
+    margin: auto;
+    background:gray;
+}
+
+#bg2 {
+    width: 75%;
+    height: 75%;
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    
+    margin: auto;
+    background:white;
+}
+
+#bg3 {
+    width: 80%;
+    height: 80%;
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    
+    margin: auto;
+    background:beige;
+}
