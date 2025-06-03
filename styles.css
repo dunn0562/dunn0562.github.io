@@ -14,6 +14,21 @@ body > h1 {
     text-align: center;
 }
 
+#mouse {
+    width: 5%;
+    height: 5%;
+    position: absolute;
+    z-index: 1;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    
+    margin: auto;
+    background:gray;
+}
+
+
 #bg1 {
     width: 50%;
     height: 75%;
@@ -52,3 +67,4 @@ body > h1 {
     margin: auto;
     background:beige;
 }
+
